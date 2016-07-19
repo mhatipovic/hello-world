@@ -1,4 +1,4 @@
--git commands: (changed)
+-git commands: (modified)
 
 git init
 
